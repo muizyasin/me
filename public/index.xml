@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My portfolio and resumer website</title>
+        <link>http://localhost:1313/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 15 Oct 2024 10:18:42 &#43;0800</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Tue, 15 Oct 2024 10:18:42 &#43;0800</pubDate>
+    <author>Muiz Yasin</author>
+    <guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
